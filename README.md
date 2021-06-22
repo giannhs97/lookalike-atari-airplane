@@ -1,6 +1,6 @@
 # lookalike-atari-airplane
 
-English version
+English version:
 The game is an attempt to represent the Atari River Raid. The player has the ability to move the plane with the arrow keys, shoot the enemies with the spacebar and refuel 
 the plane by falling on the icons of the cans. Enemies consist of ships and helicopters that move on the x-axis and descend each time they reach the banks of the river to 
 create the illusion that the plane is moving upwards. The bullet leaves the plane and as soon as it hits the enemy; it reappears at the top of the river. There is the petrol 
@@ -8,7 +8,7 @@ bar which decreases as the frames pass and every time the plane falls on a petro
 also loses when the plane hits the river bank. There is a counter for the score and for the levels. When ten enemies are successfully destroyed the level goes up and the enemies
 move faster. Of course there are the corresponding sounds for each case. 
 
-Greek version
+Greek version:
 Το παιχνίδι είναι μια προσπάθεια αναπαράστασης του Atari River Raid. Ο παίχτης έχει τις δυνατότητες να κουνάει το αεροπλανάκι με τα βελάκια του πληκτρολογίου, να πυροβολεί τους
 εχθρούς με το spacebar και να γεμίζει βενζίνη το αεροπλάνο πέφτοντας πάνω στα εικονίδια των μπιτονιών. Οι εχθροί αποτελούνται από πλοία και ελικόπτερα τα οποία κινούνται στον 
 άξονα χ και κατεβαίνουν προς τα κάτω κάθε φορά που φτάνουν στις όχθες του ποταμού για να δημιουργηθεί η ψευδαίσθηση ότι το αεροπλάνο κινείτε προς τα πάνω. Η σφαίρα φεύγει από 
